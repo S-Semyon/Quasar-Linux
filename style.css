@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&family=Ubuntu&display=swap');
 
+/* warning */
+.warning {
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    color: #000;
+    background-color: #e9b303;
+}
+
 * {
     margin: 0;
     padding: 0;
