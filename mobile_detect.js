@@ -6,7 +6,7 @@ function mobileDetect() {
         return;
     }
 
-    if (window.innerWidth < 768) {
+    if (window.innerWidth < 900) {
             mainElement.classList.add("mobile");
             navElement.classList.add("mobile");
     } else {
